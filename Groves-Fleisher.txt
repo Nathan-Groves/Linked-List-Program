@@ -1,0 +1,27 @@
+<Nathan Groves and Jayden Fleisher>
+Linked Lists Program
+
+List built with insertAtFront:
+zebra wildcat bear horse 
+After removing:
+wildcat bear 
+Size: 2
+Reversed:
+bear wildcat 
+
+List build with insertAtEnd:
+parakeet mockingbird scissortail wren 
+After removing:
+parakeet scissortail 
+Size: 2
+Reversed: 
+scissortail parakeet 
+
+List built with insertInOrder:
+elephant jaguar lion ostrich squirrel tiger 
+After removing:
+elephant jaguar squirrel 
+Size: 3
+Reversed:
+squirrel jaguar elephant 
+
